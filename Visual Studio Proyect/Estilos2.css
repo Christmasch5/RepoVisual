@@ -1,0 +1,30 @@
+.Container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; 
+  
+  }
+.Precios1{
+  width: 100%;
+  display: flex;
+  font-size: 20px;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: burlywood;
+}
+  /*IMAGENES*/
+.Imagen{
+  height: 320px;
+  width: 33%;
+}
+
+.Imagen2{
+  height: 320px;
+  width: 33%;
+}
+.Imagen3{
+  height: 320px;
+  width: 33%;
+}
+/*PRECIOS*/
